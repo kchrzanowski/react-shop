@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9035ceab-5db0-482a-aac5-663fd418d89e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Filter/Filter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Filter/Filter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Menu/Menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Menu/Menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MenuItem/MenuItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductsSection/ProductsSection.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProductsSection/ProductsSection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SectionTitle/SectionTitle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SectionTitle/SectionTitle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Tile/Tile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Tile/Tile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/About/About.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/About/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Catalog/Catalog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Catalog/Catalog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home/Home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Filter/Filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Filter/Filter.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -73,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Filter/Filter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+            <state relative-caret-position="360">
+              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -85,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/Catalog/Catalog.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            <state relative-caret-position="410">
+              <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -203,8 +178,8 @@
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/components/Tile/Tile.js" />
         <option value="$PROJECT_DIR$/src/components/ProductsSection/ProductsSection.js" />
-        <option value="$PROJECT_DIR$/src/components/Filter/Filter.js" />
         <option value="$PROJECT_DIR$/src/pages/Catalog/Catalog.js" />
+        <option value="$PROJECT_DIR$/src/components/Filter/Filter.js" />
       </list>
     </option>
   </component>
@@ -317,12 +292,12 @@
       <updated>1549711841481</updated>
       <workItem from="1549711842612" duration="5297000" />
       <workItem from="1550700481882" duration="7632000" />
-      <workItem from="1550776370936" duration="2747000" />
+      <workItem from="1550776370936" duration="3830000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15676000" />
+    <option name="totallyTimeSpent" value="16759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -566,16 +541,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Filter/Filter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/products.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -585,10 +550,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Catalog/Catalog.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state relative-caret-position="410">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Filter/Filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
